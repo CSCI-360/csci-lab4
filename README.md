@@ -27,6 +27,6 @@ You are allowed to use `numpy` which is outlined by [`requirements.txt`](./requi
 
 
 ## Test File:
-The test file can be run it will try to use the `preprocess_data` and `naive_bayes` as they are outline in the lab3 PDF.
+The test file can be run it will try to use the `preprocess_data` and `naive_bayes` as they are outline in the lab4 PDF.
 
 The test file uses `load_data` this pulls a tuple from the data
